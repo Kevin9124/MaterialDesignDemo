@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.2.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5a2b73afb548f356180ccc16e6a37f675da299b7">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-4c94285d5a312011ddccb27e0cd0d1dd83bc2f93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\okio-1.6.0-c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-e97c4d684058659f4c78fd063d89ce0d8b400297.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-226afe11b4bb830c4827ca2fb1e57b539f1d01c8.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-d680c15d3f2e29cf97ad3ea8139d80abffe54b13.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-609950e701d403f658cad5ef3aefeb2b92944fd6.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-35ca60797f8d9544dc2d2cefece72f3bb077f199.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\gson-2.2.4-752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-33bfad952b5dbb76a0333c1f9a49511b64a3dc33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2428dbd5eabf65ae69bc01abd6e4b72d08e545aa.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-f7e077c62aa48749190047e0d157c62c2f385653.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-1212b1d15169fbc4550556abbdd8f95416149a19.jar" />
+    </item>
+    <item
+        jar="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\github\workspace\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-9727805c6f8b685b11e24b497e40b07f905c6534.jar" />
+    </item>
+
+</items>
